@@ -1,0 +1,8 @@
+Discover cryptography used in Internet of Things devices.
+
+Internet of Things (IoT) devices use cryptography to secure communication, protect user data, and prevent unauthorized access.
+
+Wearable Devices (Smartwatch / Fitness Tracker)
+Proof: See Fig15
+Observation:
+Wearable devices sync data such as steps and heart rate with mobile apps.
