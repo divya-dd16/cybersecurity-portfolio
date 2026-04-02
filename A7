@@ -1,0 +1,12 @@
+Discover cryptography used in modern networks.
+
+
+TLS Encryption (Web Traffic)
+Proof: See Fig11
+Observation:
+Websites use HTTPS, which indicates that TLS encryption is used to secure communication over the network.
+
+Wi-Fi Network Encryption
+Proof: See Fig14
+Observation:
+The Wi-Fi network requires a password and displays a lock icon, indicating that the network is secured.
