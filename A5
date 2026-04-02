@@ -1,0 +1,11 @@
+Cryptographic Implementation Used Online
+
+HTTPS (TLS Encryption) Proof: see Fig11
+Observation: 
+The website URL begins with HTTPS, indicating a secure connection. 
+Modern browsers like Safari may not always display a padlock icon, but HTTPS confirms that encryption is being used.
+
+End-to-End Encryption (WhatsApp)
+Proof: see Fig12
+Observation: 
+WhatsApp displays that messages are end-to-end encrypted.
