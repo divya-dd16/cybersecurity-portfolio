@@ -1,0 +1,16 @@
+I analysed the website https://littleway.com.au to identify potential cybersecurity weaknesses.
+
+Firstly, the website does not clearly display a privacy policy. 
+This creates uncertainty about how user data (such as booking details or contact form submissions) is collected, stored, and protected.
+
+Additionally, there is no visible indication of advanced security measures such as CAPTCHA or input validation on forms. 
+This may make the website vulnerable to spam submissions or automated attacks.
+
+Another weakness is the lack of visible user security awareness features, such as warnings about phishing or secure communication practices.
+This can increase the risk of users trusting fake communications pretending to be from the business.
+
+Furthermore, small business websites like this often rely on third-party integrations (e.g., booking systems or embedded services),
+which may introduce additional security risks if not properly managed.
+
+These observations show that even though the website functions well for business purposes, 
+there are several potential security weaknesses related to data protection, user awareness, and system security practices.
