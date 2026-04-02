@@ -22,6 +22,6 @@ Observation:
 VPNs encrypt internet traffic and provide a secure connection over public networks.
 
 5. Two-Factor Authentication (2FA)
-Proof: See Fig30
+Proof: See Fig16
 Observation:
 2FA adds an extra layer of security by requiring a second verification step during login.
